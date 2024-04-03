@@ -105,7 +105,7 @@ class Moto extends Veicolo {
 
 }
 
-public class testVeicoli {
+public class veicoli {
     public static void main(String[] args) 
     {
 
