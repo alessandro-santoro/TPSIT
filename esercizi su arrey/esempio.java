@@ -6,10 +6,10 @@ public class EserciziArray
     public static void main(String args[]) throws NumberFormatException, IOException {
 
         
-        //somma1();
-        //somma2();
-        //contaMinoriDiZero();
-        //maggiore();
+        somma1();
+        somma2();
+        contaMinoriDiZero();
+        maggiore();
     }
 
     public static void somma1() throws NumberFormatException, IOException {
